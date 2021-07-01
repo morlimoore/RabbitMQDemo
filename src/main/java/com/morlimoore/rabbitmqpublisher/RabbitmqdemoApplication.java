@@ -1,4 +1,4 @@
-package com.morlimoore.rabbitmqdemo;
+package com.morlimoore.rabbitmqpublisher;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
